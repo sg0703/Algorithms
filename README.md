@@ -4,7 +4,7 @@
 
 ## Description
 
-This repo includes algorithms that I worked on in my spare time during the UNC Coding Boot Camp.
+This repo includes algorithms that I worked on in my spare time during the UNC Coding Boot Camp. The algorithm problems were not created by me. The solutions are my own.
 
 ## Installation
 
